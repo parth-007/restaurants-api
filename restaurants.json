@@ -1,0 +1,274 @@
+{
+    "restaurants": [
+        {
+            "id": 1,
+            "name": "Island Grill",
+            "website": "www.islandgrill.com",
+            "ETA": 35,
+            "ratings": 4.3,
+            "description": "Best in town island restaurant",
+            "avgBillFor2": 450, 
+            "tags": ["Healthy", "Quick", "South-Indian", "Italian"],
+            "address": {
+                "locality": "Morrica",
+                "line1": "93A, Blank street",
+                "line2": "Purple road.",
+                "phone": 1234567890 
+            },
+            "pic": "https://picsum.photos/500/350"
+
+        },
+        {
+            "id": 2,
+            "name": "Green curry",
+            "website": "www.curryisgreen.com",
+            "ETA": 30,
+            "ratings": 4.7,
+            "description": "Best curry in the area",
+            "avgBillFor2": 350,
+            "tags": ["Chinese", "Mexican", "Italian", "Quick"],
+            "address": {
+                "locality": "Trenton",
+                "line1": "54B White Street",
+                "line2": "Orange Road.",
+                "phone": 7654324567654 
+            },
+            "pic": "https://picsum.photos/500/350"
+
+        },
+        {
+            "id": 3,
+            "name": "Freddy's stove",
+            "website": "www.freddy-stove.com",
+            "ETA": 26,
+            "ratings": 3.5,
+            "description": "World best food here",
+            "avgBillFor2": 250,
+            "tags": ["Chinese", "Quick", "South-Indian", "Japanese", "Mexican"],
+            "address": {
+                "locality": "Neotran",
+                "line1": "87C, Benjamin street",
+                "line2": "Black Road.",
+                "phone": 567897654678 
+            },
+            "pic": "https://picsum.photos/500/350"
+
+        },
+        {
+            "id": 4,
+            "name": "Salty Squad",
+            "website": "www.saltysquad.com",
+            "ETA": 40,
+            "ratings": 4.5,
+            "description": "Salty food might be good for you",
+            "avgBillFor2": 400,
+            "tags": ["Chinese", "Quick", "Healthy", "Punjabi", "Italian", "Mexican"],
+            "address": {
+                "locality": "Qubec",
+                "line1": "55C, Big street",
+                "line2": "Pink valley",
+                "phone": 345678976546
+            },
+            "pic": "https://picsum.photos/500/350"
+
+        },
+        {
+            "id": 5,
+            "name": "Street deli",
+            "website": "www.delisstreet.com",
+            "ETA": 38,
+            "ratings": 4,
+            "description": "Best food in the area",
+            "avgBillFor2": 280,
+            "tags": ["Mexican", "Japanese", "Punjabi"],
+            "address": {
+                "locality": "Zodiac",
+                "line1": "12, Nearby Street",
+                "line2": "Purple Valley",
+                "phone": 67890544554
+            },
+            "pic": "https://picsum.photos/500/350"
+
+        },
+        {
+            "id": 6,
+            "name": "Masala",
+            "website": "www.masalamania.com",
+            "ETA": 31,
+            "ratings": 4.1,
+            "description": "Best Food with Best masala",
+            "avgBillFor2": 410,
+            "tags": ["Healthy", "Quick", "South-Indian", "Italian"],
+            "address": {
+                "locality": "Plazma",
+                "line1": "45C, Overton Plaza",
+                "line2": "Eoin Vally",
+                "phone": 234532134532
+            },
+            "pic": "https://picsum.photos/500/350"
+
+        },
+        {
+            "id": 7,
+            "name": "Cubec Nation",
+            "website": "www.cubicnationbest.com",
+            "ETA": 27,
+            "ratings": 3.1,
+            "description": "Enjoy top cubeques",
+            "avgBillFor2": 650,
+            "tags": ["Italian", "Mexican", "South-Indian", "Japanese", "Healthy"],
+            "address": {
+                "locality": "Trenton",
+                "line1": "56A, Robin James Road",
+                "line2": "Sam stadium",
+                "phone": 543454324532
+            },
+            "pic": "https://picsum.photos/500/350"
+
+        },
+        {
+            "id": 8,
+            "name": "West Cafe",
+            "website": "www.westcafeinit.com",
+            "ETA": 59,
+            "ratings": 3.5,
+            "description": "Cafe food in your feet",
+            "avgBillFor2": 700,
+            "tags": ["Healthy", "Quick", "Mexican", "Italian", "Chinese"],
+            "address": {
+                "locality": "Zodiac",
+                "line1": "1A, Alister Apartments.",
+                "line2": "Matty Valley",
+                "phone": 9893049832443
+            },
+            "pic": "https://picsum.photos/500/350"
+
+        },
+        {
+            "id": 9,
+            "name": "Hero culture",
+            "website": "www.heroculturefood.com",
+            "ETA": 44,
+            "ratings": 4.5,
+            "description": "Heroic culture food",
+            "avgBillFor2": 400,
+            "tags": ["Healthy", "Italian", "Japanese"],
+            "address": {
+                "locality": "Qubec",
+                "line1": "4C, Pizza road",
+                "line2": "Mergenta Street",
+                "phone": 67654643564 
+            },
+            "pic": "https://picsum.photos/500/350"
+
+        },
+        {
+            "id": 10,
+            "name": "Pancake world",
+            "website": "www.cakeworld.com",
+            "ETA": 40,
+            "ratings": 4.3,
+            "description": "Best Pancakes - see who wins",
+            "avgBillFor2": 500,
+            "tags": ["Punjabi", "South-Indian", "Quick"],
+            "address": {
+                "locality": "Plazma",
+                "line1": "HB, Ravi Street",
+                "line2": "Anthony the great Plaza, Nr. the Marry hospital, GH Road",
+                "phone": 434543245323
+            },
+            "pic": "https://picsum.photos/500/350"
+
+        },
+        {
+            "id": 11,
+            "name": "Trojan of Taste",
+            "website": "www.tasteoftrojan.com",
+            "ETA": 27,
+            "ratings": 4.1,
+            "description": "Taste of trojan",
+            "avgBillFor2": 1000,
+            "tags": ["Italian", "Chinese", "Punjabi"],
+            "address": {
+                "locality": "Neotran",
+                "line1": "112/D, Ady Road",
+                "line2": "White valley",
+                "phone": 673829473829 
+            },
+            "pic": "https://picsum.photos/500/350"
+
+        },
+        {
+            "id": 12,
+            "name": "Southern smell",
+            "website": "www.smellofsouthernfood.com",
+            "ETA": 39,
+            "ratings": 4.1,
+            "description": "Smell of southern community",
+            "avgBillFor2": 680,
+            "tags": ["South-Indian", "Punjabi", "Chinese"],
+            "address": {
+                "locality": "Morrica",
+                "line1": "6C, Morocco Street",
+                "line2": "Paul stirling querry",
+                "phone": 7654346565
+            },
+            "pic": "https://picsum.photos/500/350"
+
+        },
+        {
+            "id": 13,
+            "name": "Grandma's kitchen",
+            "website": "www.kitchenofgrandma.com",
+            "ETA": 45,
+            "ratings": 3.4,
+            "description": "How good old grandma cook?",
+            "avgBillFor2": 390,
+            "tags": ["South-Indian", "Punjabi", "Quick", "Japanese"],
+            "address": {
+                "locality": "Qubec",
+                "line1": "4, Silverston villa",
+                "line2": "Black Road.",
+                "phone": 78348573485738
+            },
+            "pic": "https://picsum.photos/500/350"
+
+        },
+        {
+            "id": 14,
+            "name": "El Pirata Porch",
+            "website": "www.elporch.com",
+            "ETA": 43,
+            "ratings": 3.7,
+            "description": "Wanna have a good time?, El pirata porch is your answer. Here you will get all types of food ranging from 100 to 10000",
+            "avgBillFor2": 680,
+            "tags": ["Chinese", "Punjabi", "Mexican"],
+            "address": {
+                "locality": "Morrica",
+                "line1": "90A, Royal avenue",
+                "line2": "Backenham palace",
+                "phone": 5643563434 
+            },
+            "pic": "https://picsum.photos/500/350"
+
+        },
+        {
+            "id": 15,
+            "name": "Pizzeria Pasta",
+            "website": "www.pastaparapizzeria.com",
+            "ETA": 30,
+            "ratings": 4.1,
+            "description": "Best Pizza",
+            "avgBillFor2": 750,
+            "tags": ["Italian", "Mexican", "Quick"],
+            "address": {
+                "locality": "Trenton",
+                "line1": "3, Silverston villa",
+                "line2": "Joe park",
+                "phone": 7584390224854
+            },
+            "pic": "https://picsum.photos/500/350"
+
+        }
+    ]
+}
