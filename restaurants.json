@@ -16,7 +16,6 @@
                 "phone": 1234567890 
             },
             "pic": "https://picsum.photos/500/350"
-
         },
         {
             "id": 2,
@@ -34,7 +33,6 @@
                 "phone": 7654324567654 
             },
             "pic": "https://picsum.photos/500/350"
-
         },
         {
             "id": 3,
@@ -52,7 +50,6 @@
                 "phone": 567897654678 
             },
             "pic": "https://picsum.photos/500/350"
-
         },
         {
             "id": 4,
@@ -70,7 +67,6 @@
                 "phone": 345678976546
             },
             "pic": "https://picsum.photos/500/350"
-
         },
         {
             "id": 5,
@@ -88,7 +84,6 @@
                 "phone": 67890544554
             },
             "pic": "https://picsum.photos/500/350"
-
         },
         {
             "id": 6,
@@ -106,7 +101,6 @@
                 "phone": 234532134532
             },
             "pic": "https://picsum.photos/500/350"
-
         },
         {
             "id": 7,
@@ -124,7 +118,6 @@
                 "phone": 543454324532
             },
             "pic": "https://picsum.photos/500/350"
-
         },
         {
             "id": 8,
@@ -142,7 +135,6 @@
                 "phone": 9893049832443
             },
             "pic": "https://picsum.photos/500/350"
-
         },
         {
             "id": 9,
@@ -160,7 +152,6 @@
                 "phone": 67654643564 
             },
             "pic": "https://picsum.photos/500/350"
-
         },
         {
             "id": 10,
@@ -178,7 +169,6 @@
                 "phone": 434543245323
             },
             "pic": "https://picsum.photos/500/350"
-
         },
         {
             "id": 11,
@@ -196,7 +186,6 @@
                 "phone": 673829473829 
             },
             "pic": "https://picsum.photos/500/350"
-
         },
         {
             "id": 12,
@@ -214,7 +203,6 @@
                 "phone": 7654346565
             },
             "pic": "https://picsum.photos/500/350"
-
         },
         {
             "id": 13,
@@ -232,7 +220,6 @@
                 "phone": 78348573485738
             },
             "pic": "https://picsum.photos/500/350"
-
         },
         {
             "id": 14,
@@ -250,7 +237,6 @@
                 "phone": 5643563434 
             },
             "pic": "https://picsum.photos/500/350"
-
         },
         {
             "id": 15,
@@ -268,7 +254,91 @@
                 "phone": 7584390224854
             },
             "pic": "https://picsum.photos/500/350"
-
+        },
+        {
+            "id": 16,
+            "name": "Mountain Classics",
+            "website": "www.mountains-classics.com",
+            "ETA": 40,
+            "ratings": 3.6,
+            "description": "Best allround food here",
+            "avgBillFor2": 370,
+            "tags": ["South-Indian", "Japanese", "Chinese"],
+            "address": {
+                "locality": "Trenton",
+                "line1": "56, Best Plaza",
+                "line2": "Denly park",
+                "phone": 433533242324
+            },
+            "pic": "https://picsum.photos/500/350"
+        },
+        {
+            "id": 17,
+            "name": "Tenlo Plaza",
+            "website": "www.tenloplaza.com",
+            "ETA": 40,
+            "ratings": 4.7,
+            "description": "Best Food in the world",
+            "avgBillFor2": 450,
+            "tags": ["Chinese", "Healthy", "Italian"],
+            "address": {
+                "locality": "Plazma",
+                "line1": "94C, Prior Street",
+                "line2": "Matt valley",
+                "phone": 7584390234232
+            },
+            "pic": "https://picsum.photos/500/350"
+        },
+        {
+            "id": 18,
+            "name": "Maisur Restaura",
+            "website": "www.maisurrestaura.com",
+            "ETA": 35,
+            "ratings": 4.4,
+            "description": "Best south indian food",
+            "avgBillFor2": 570,
+            "tags": ["South-Indian", "Quick", "Healthy"],
+            "address": {
+                "locality": "Neotran",
+                "line1": "91C, Benzo Street",
+                "line2": "Paul stirling querry",
+                "phone": 546789765456
+            },
+            "pic": "https://picsum.photos/500/350"
+        },
+        {
+            "id": 19,
+            "name": "Quick Bites",
+            "website": "www.quickbites.com",
+            "ETA": 25,
+            "ratings": 3.7,
+            "description": "Best and Quick food - Tasty food",
+            "avgBillFor2": 650,
+            "tags": ["Japanese", "Punjabi", "South-Indian", "Healthy"],
+            "address": {
+                "locality": "Qubec",
+                "line1": "47C, Steve Street",
+                "line2": "Smith Area",
+                "phone": 12345654343
+            },
+            "pic": "https://picsum.photos/500/350"
+        },
+        {
+            "id": 20,
+            "name": "Macroni EST.",
+            "website": "www.macroniest.com",
+            "ETA": 32,
+            "ratings": 4.3,
+            "description": "Macroni plaza",
+            "avgBillFor2": 860,
+            "tags": ["Italian", "Mexican", "Quick", "Healthy", "Chinese"],
+            "address": {
+                "locality": "Qubec",
+                "line1": "4C, Pizza road",
+                "line2": "Althan Valley",
+                "phone": 56789876546
+            },
+            "pic": "https://picsum.photos/500/350"
         }
     ]
 }
