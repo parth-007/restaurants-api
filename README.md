@@ -10,4 +10,5 @@ Restaurants API available to call at:
 
 https://my-restaurants-api.herokuapp.com/restaurants
    
-We will be using the above API to create a restaurants app. The Repository can be found at: [Restaurants](https://github.com/parth-007/restaurants)
+We will be using the above API to create a restaurants app.   
+The repository can be found at: [Restaurants](https://github.com/parth-007/restaurants)
