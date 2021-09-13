@@ -15,7 +15,7 @@
                 "line2": "Purple road.",
                 "phone": 1234567890 
             },
-            "pic": "https://picsum.photos/500/350"
+            "pic": "https://picsum.photos/250/176"
         },
         {
             "id": 2,
@@ -32,7 +32,7 @@
                 "line2": "Orange Road.",
                 "phone": 7654324567654 
             },
-            "pic": "https://picsum.photos/500/350"
+            "pic": "https://picsum.photos/250/174"
         },
         {
             "id": 3,
@@ -49,7 +49,7 @@
                 "line2": "Black Road.",
                 "phone": 567897654678 
             },
-            "pic": "https://picsum.photos/500/350"
+            "pic": "https://picsum.photos/250/177"
         },
         {
             "id": 4,
@@ -66,7 +66,7 @@
                 "line2": "Pink valley",
                 "phone": 345678976546
             },
-            "pic": "https://picsum.photos/500/350"
+            "pic": "https://picsum.photos/250/173"
         },
         {
             "id": 5,
@@ -83,7 +83,7 @@
                 "line2": "Purple Valley",
                 "phone": 67890544554
             },
-            "pic": "https://picsum.photos/500/350"
+            "pic": "https://picsum.photos/250/178"
         },
         {
             "id": 6,
@@ -100,7 +100,7 @@
                 "line2": "Eoin Vally",
                 "phone": 234532134532
             },
-            "pic": "https://picsum.photos/500/350"
+            "pic": "https://picsum.photos/250/172"
         },
         {
             "id": 7,
@@ -117,7 +117,7 @@
                 "line2": "Sam stadium",
                 "phone": 543454324532
             },
-            "pic": "https://picsum.photos/500/350"
+            "pic": "https://picsum.photos/250/179"
         },
         {
             "id": 8,
@@ -134,7 +134,7 @@
                 "line2": "Matty Valley",
                 "phone": 9893049832443
             },
-            "pic": "https://picsum.photos/500/350"
+            "pic": "https://picsum.photos/250/171"
         },
         {
             "id": 9,
@@ -151,7 +151,7 @@
                 "line2": "Mergenta Street",
                 "phone": 67654643564 
             },
-            "pic": "https://picsum.photos/500/350"
+            "pic": "https://picsum.photos/251/175"
         },
         {
             "id": 10,
@@ -168,7 +168,7 @@
                 "line2": "Anthony the great Plaza, Nr. the Marry hospital, GH Road",
                 "phone": 434543245323
             },
-            "pic": "https://picsum.photos/500/350"
+            "pic": "https://picsum.photos/252/175"
         },
         {
             "id": 11,
@@ -185,7 +185,7 @@
                 "line2": "White valley",
                 "phone": 673829473829 
             },
-            "pic": "https://picsum.photos/500/350"
+            "pic": "https://picsum.photos/253/175"
         },
         {
             "id": 12,
@@ -202,7 +202,7 @@
                 "line2": "Paul stirling querry",
                 "phone": 7654346565
             },
-            "pic": "https://picsum.photos/500/350"
+            "pic": "https://picsum.photos/254/175"
         },
         {
             "id": 13,
@@ -219,7 +219,7 @@
                 "line2": "Black Road.",
                 "phone": 78348573485738
             },
-            "pic": "https://picsum.photos/500/350"
+            "pic": "https://picsum.photos/255/175"
         },
         {
             "id": 14,
@@ -236,7 +236,7 @@
                 "line2": "Backenham palace",
                 "phone": 5643563434 
             },
-            "pic": "https://picsum.photos/500/350"
+            "pic": "https://picsum.photos/249/175"
         },
         {
             "id": 15,
@@ -253,7 +253,7 @@
                 "line2": "Joe park",
                 "phone": 7584390224854
             },
-            "pic": "https://picsum.photos/500/350"
+            "pic": "https://picsum.photos/248/175"
         },
         {
             "id": 16,
@@ -270,7 +270,7 @@
                 "line2": "Denly park",
                 "phone": 433533242324
             },
-            "pic": "https://picsum.photos/500/350"
+            "pic": "https://picsum.photos/247/175"
         },
         {
             "id": 17,
@@ -287,7 +287,7 @@
                 "line2": "Matt valley",
                 "phone": 7584390234232
             },
-            "pic": "https://picsum.photos/500/350"
+            "pic": "https://picsum.photos/246/175"
         },
         {
             "id": 18,
@@ -304,7 +304,7 @@
                 "line2": "Paul stirling querry",
                 "phone": 546789765456
             },
-            "pic": "https://picsum.photos/500/350"
+            "pic": "https://picsum.photos/250/165"
         },
         {
             "id": 19,
@@ -321,7 +321,7 @@
                 "line2": "Smith Area",
                 "phone": 12345654343
             },
-            "pic": "https://picsum.photos/500/350"
+            "pic": "https://picsum.photos/260/180"
         },
         {
             "id": 20,
@@ -338,7 +338,7 @@
                 "line2": "Althan Valley",
                 "phone": 56789876546
             },
-            "pic": "https://picsum.photos/500/350"
+            "pic": "https://picsum.photos/253/174"
         }
     ]
 }
